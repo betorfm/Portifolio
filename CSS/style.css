@@ -1,0 +1,86 @@
+body{
+  margin:0;
+  font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  font-size:1rem;
+  font-weight:400;
+  line-height:1.5;
+  color:#333;
+  background-color:#fff;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  background-color: pink;
+}
+
+.elementor{
+ align-items: center;
+  background-color: #fff;
+  margin: 50px;
+  border-radius: 30px;
+
+
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin-top:.5rem;
+  margin-bottom:1rem;
+  font-family:inherit;
+  font-weight:500;
+  line-height:1.2;
+  color:inherit
+}
+
+h3{
+  font-size:1.75rem
+}
+
+h5{
+  font-size:1.25rem
+}
+
+.comments-area a,.page-content a{text-decoration:underline}
+
+.alignright{float:right;margin-left:1rem}.alignleft{float:left;margin-right:1rem}
+
+.aligncenter{clear:both;display:block;margin-left:auto;margin-right:auto}
+
+.alignwide{margin-left:-80px;margin-right:-80px}
+
+.alignfull{margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);max-width:100vw}
+
+.alignfull,.alignfull img{width:100vw}
+
+.wp-caption{margin-bottom:1.25rem;max-width:100%}
+
+.wp-caption.alignleft{margin:5px 20px 20px 0}
+
+.wp-caption.alignright{margin:5px 0 20px 20px}
+
+.wp-caption img{display:block;margin-left:auto;margin-right:auto}
+
+.wp-caption-text{margin:0}
+
+ .elementor img{height:auto;max-width:100%;border:none;border-radius:0;box-shadow:none}
+ .elementor .elementor-widget:not(.elementor-widget-text-editor):not(.elementor-widget-theme-post-content) figure{margin:0}
+ 
+  .elementor-section .elementor-container{display:flex;margin-right:auto;margin-left:auto;position:relative}
+  
+@media (max-width:1024px){
+  .elementor-section .elementor-container{flex-wrap:wrap}}
+  .elementor-column-gap-default>.elementor-column>.elementor-element-populated{padding:10px}
+  
+   
+@media (min-width:768px){
+  .elementor-column.elementor-col-33,.elementor-column[data-col="33"]{width:33.333%}}
+  .elementor-4898 .elementor-element.elementor-element-4a831aeb>.elementor-container{max-width:874px}
+  .elementor-4898 .elementor-element.elementor-element-1bfe9014>.elementor-container{max-width:500px}
+  .elementor-4898 .elementor-element.elementor-element-6c82cdd{text-align:center;color:#7a7a7a}.elementor-4898 .elementor-element.elementor-element-f9d5b8e{text-align:center;color:#7a7a7a}
+  .elementor-4898 .elementor-element.elementor-element-17067292>.elementor-element-populated{margin:0 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;padding:0}
+  .elementor-4898 .elementor-element.elementor-element-610a0593 {text-align:center}
+  .elementor-4898 .elementor-element.elementor-element-5d8117>.elementor-element-populated{margin:0;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0 10px}
+  .elementor-4898 .elementor-element.elementor-element-1a96df8f>.elementor-element-populated{margin:0;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0 10px}
+
+  .elementor-4898 .elementor-element.elementor-element-79b2cbaa {text-align:center}
+  .elementor-4898 .elementor-element.elementor-element-3c015055 {text-align:center}
+
+
+ 
