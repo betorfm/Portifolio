@@ -65,9 +65,12 @@ h5{
   .elementor-section .elementor-container{display:flex;margin-right:auto;margin-left:auto;position:relative}
   
 @media (max-width:1024px){
-  .elementor-section .elementor-container{flex-wrap:wrap}}
+  .elementor-section .elementor-container{flex-wrap:wrap}
   .elementor-column-gap-default>.elementor-column>.elementor-element-populated{padding:10px}
-  
+  .elementor-element-17067292{margin-bottom: 30px;}
+  .elementor-element-5d8117{margin-bottom: 30px;}
+  .elementor-element-1a96df8f{margin-bottom: 30px;}
+}
    
 @media (min-width:768px){
   .elementor-column.elementor-col-33,.elementor-column[data-col="33"]{width:33.333%}}
